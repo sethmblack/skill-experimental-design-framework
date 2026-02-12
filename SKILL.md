@@ -1,11 +1,9 @@
 ---
 name: experimental-design-framework
-description: Design rigorous experiments with controlled variables, precise measurements,
-  and systematic documentation. Plan investigations that produce reliable, reproducible
-  results.
+description: Design rigorous experiments with controlled variables, precise measurements, and systematic documentation. Plan investigations that produce reliable, reproducible results.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - experimental-design-framework
